@@ -2,7 +2,7 @@
 Traffic Sign Recognition Using Deep Learning ResNet
 # Traffic Sign Classification Using ResNet
 
-![Traffic Sign Classification Example](https://github.com/SohaibAamir28/TSR-ResNet/output/model.png)
+![Traffic Sign Classification Example](https://github.com/SohaibAamir28/TSR-ResNet/blob/main/output/model.png)
 
 This project demonstrates how to build a traffic sign classification system using a Convolutional Neural Network (CNN) with the ResNet architecture. The model is trained on traffic sign images and is designed to operate accurately under various environmental conditions.
 
